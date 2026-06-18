@@ -8,7 +8,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_launcher_foreground"
+        @android:drawable/ic_dialog_info
         android:label="Jarvis"
         android:theme="@android:style/Theme.Material.NoActionBar"
         android:supportsRtl="true">
